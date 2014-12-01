@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Quake" package="com.infinitedescent.substate.quake" version="1.0.0" company="Infinite Descent" />
+	<app main="Main" path="Export" file="Doom" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="substate" />
+	
+	<assets path="Assets" rename="assets" exclude="*.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>

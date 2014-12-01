@@ -1,0 +1,29 @@
+# mtask
+/bin
+/.temp
+/lib
+
+# munit and mcover
+/.mcover
+TestSuite.hx
+
+# OS files
+.DS_Store
+
+# Build and Release Folders
+*build/
+*Export/
+
+# Test and Report Folders
+*out/
+*report/
+
+test/TestMain.hx
+test/TestSuite.hx
+
+# Other files and folders
+
+# Project files
+.idea/
+*.iml
+*.iws
