@@ -1,8 +1,13 @@
 substate-samples
 ================
 
-Samples for the Substate Haxelib.
+Samples for the [Substate](https://github.com/infinitedescent/substate) Haxe Library.
 
+               |_
+         _____|~ |______ ,.
+        ( --  subSTATE  `+|   
+      ~~~~~~~~~~~~~~~~~~~~~~~
+    
 
 Requirements
 ------------
