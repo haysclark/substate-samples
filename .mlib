@@ -1,0 +1,6 @@
+<mlib bin="bin">
+	<resources>
+		<resource type="src" path="Quake" dest="Quake" />
+		<resource type="license" path="LICENSE.txt" />
+	</resources>
+</mlib>

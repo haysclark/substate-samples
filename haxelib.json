@@ -1,11 +1,13 @@
 {
 	"name": "substate-samples",
-    "description": "Samples for the Substate library.",
-    "tags": ["substate"],
-    "license": "MIT",
-    "contributors": ["infinitedescent"],
-    "url": "https://github.com/infinitedescent/substate-samples",
-    "dependencies": {},
-    "version": "0.9.3",
-    "releasenote": "See <a href=\"https://github.com/infinitedescent/substate-samples/blob/master/CHANGES.md\">Changelist</a>"
+	"url": "https://github.com/infinitedescent/substate-samples",
+	"license": "MIT",
+	"description": "Samples for the Substate library.",
+	"version": "0.9.4",
+	"releasenote": "See <a href=\"https://github.com/infinitedescent/substate-samples/blob/master/CHANGES.md\">Changelist</a>",
+	"tags": ["substate"],
+	"contributors": ["infinitedescent"],
+	"dependencies":
+	{
+	}
 }
