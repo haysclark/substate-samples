@@ -59,3 +59,6 @@ Tell haxelib where your development copy of Substate-Samples is installed:
 To return to release builds:
 
     haxelib dev substate-samples
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/infinitedescent/substate-samples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
